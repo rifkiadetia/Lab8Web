@@ -72,16 +72,16 @@ Lab8Web/
 ![Data di phpMyAdmin](screenshots/myadmin.png)
 
 ### Halaman Utama (Read)
-![Halaman utama](screenshots/02_index.png)
+![Halaman utama](screenshots/index.php.png)
 
 ### Tambah Barang (Create)
-![Tambah barang](screenshots/03_tambah.png)
+![Tambah barang](screenshots/tambah.php.png)
 
 ### Ubah Barang (Update)
-![Ubah barang](screenshots/04_ubah.png)
+![Ubah barang](screenshots/ubah.php.png)
 
 ### Hapus Barang (Delete)
-![Hapus barang](screenshots/05_hapus.png)
+![Hapus barang](screenshots/hapus.php.png)
 
 ## Kesimpulan
 
