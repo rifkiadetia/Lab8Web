@@ -1,7 +1,7 @@
 # Lab8Web
 # Praktikum 8: PHP dan Database MySQL
 
-**Mata Kuliah:** Pemrograman Web 
+**Mata Kuliah: Pemrograman Web**
 **Nama:Rifki Ade Tia**
 **NIM: 312510334**
 **Kelas: I253C**
