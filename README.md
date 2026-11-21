@@ -68,7 +68,7 @@ Lab8Web/
 ## Tampilan Program
 
 ### Data di phpMyAdmin
-![Data di phpMyAdmin](screenshots/01_phpmyadmin.png)
+![Data di phpMyAdmin](screenshots/myadmin.png)
 
 ### Halaman Utama (Read)
 ![Halaman utama](screenshots/02_index.png)
