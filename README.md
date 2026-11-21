@@ -37,6 +37,7 @@ Lab8Web/
 ├── tambah.php
 ├── ubah.php
 ├── hapus.php
+├── style.css
 ├── gambar/
 └── screenshots/
 ```
