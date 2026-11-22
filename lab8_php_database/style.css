@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; }
+.container { width: 800px; margin: 20px auto; }
+h1 { border-bottom: 1px solid #ddd; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: 6px; text-align: center; }
+img { max-width: 80px; }
+.input { margin-bottom: 10px; }
+.input label { display: inline-block; width: 120px; }
+.submit input { background: blue; color: #fff; border: 0; padding: 6px 14px; border-radius: 4px; }
